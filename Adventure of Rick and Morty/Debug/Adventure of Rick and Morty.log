@@ -1,0 +1,78 @@
+﻿Build started 1/28/2021 9:40:00 PM.
+     1>Project "C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Adventure of Rick and Morty\Adventure of Rick and Morty.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Adventure of Rick and Morty.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Adventure of Rick and MortyNEXT\iMain.cpp"
+         iMain.cpp
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(210): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(211): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(213): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(215): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(227): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(228): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(252): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(260): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(267): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(274): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(287): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(288): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(291): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(299): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(304): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\selectionbar.h(313): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\gameplay.h(565): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\gameplay.h(684): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : see declaration of '_itoa'
+     1>c:\users\dell\documents\visual studio 2010\projects\adventure of rick and morty\adventure of rick and morty\adventure of rick and mortynext\imain.cpp(142): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Adventure of Rick and Morty.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.lib" /MACHINE:X86 Debug\iMain.obj
+         Adventure of Rick and Morty.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.exe;#1" /manifest "Debug\Adventure of Rick and Morty.exe.intermediate.manifest"
+       CopyFilesToOutputDirectory:
+         Copying file from "Debug\Adventure of Rick and Morty.pdb" to "C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Debug\Adventure of Rick and Morty.pdb".
+       FinalizeBuildStatus:
+         Deleting file "Debug\Adventure of Rick and Morty.unsuccessfulbuild".
+         Touching "Debug\Adventure of Rick and Morty.lastbuildstate".
+     1>Done Building Project "C:\Users\Dell\Documents\Visual Studio 2010\Projects\Adventure of Rick and Morty\Adventure of Rick and Morty\Adventure of Rick and Morty.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.42
